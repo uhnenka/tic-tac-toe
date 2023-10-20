@@ -1,0 +1,31 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "game/1.0.0": {
+        "runtime": {
+          "game.dll": {}
+        },
+        "resources": {
+          "agq/game.resources.dll": {
+            "locale": "agq"
+          },
+          "en-001/game.resources.dll": {
+            "locale": "en-001"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "game/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
